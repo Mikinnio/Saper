@@ -1,0 +1,6 @@
+﻿  Square.cpp
+  Engine.cpp
+c:\users\zolwo_000\documents\visual studio 2015\projects\saper1\saper1\engine.cpp(322): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating Code...
+  Saper1.vcxproj -> C:\Users\zolwo_000\Documents\Visual Studio 2015\Projects\Saper1\Debug\Saper1.exe
+  Saper1.vcxproj -> C:\Users\zolwo_000\Documents\Visual Studio 2015\Projects\Saper1\Debug\Saper1.pdb (Partial PDB)
